@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245813048821",
+    "firebase_url": "https://bookreview-b2195.firebaseio.com",
+    "project_id": "bookreview-b2195",
+    "storage_bucket": "bookreview-b2195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245813048821:android:74a958a4d746a44f",
+        "android_client_info": {
+          "package_name": "com.example.bookreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245813048821-00a241h9c2543cilp74roctsmjocd8pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vsfVTEEXYBlEEQ2xlB-34Z0yV9-_uKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245813048821-00a241h9c2543cilp74roctsmjocd8pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
