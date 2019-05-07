@@ -5,6 +5,9 @@ buildscript {
     repositories {
         google()
         jcenter()
+
+        /*facebook library*/
+        mavenCentral()
         
     }
     dependencies {
@@ -23,7 +26,6 @@ allprojects {
         maven{
             url "https://maven.google.com/" //google's maven repo
         }
-        
     }
 }
 

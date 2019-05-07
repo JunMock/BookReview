@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Book Review</string>
+    <string name="fb_app_id">FaceBook App Key</string>
+    <string name="fb_login_protocol_scheme">fb53</string>
+
+    <string name="email">Email</string>
+    <string name="password">PassWord</string>
+
+    <string name="signin_email">회원가입 및 이메일 로그안</string>
+    <string name="signin_google">Google 로그인</string>
+    <string name="signin_facebook">FaceBook 로그인</string>
+    <string name="signin_complete">로그인 성공</string>
+    <string name="signup_complete">회원가입 성공</string>
+    <string name="signout">로그아웃</string>
+    <string name="signout_success">로그아웃 성공</string>
+    <string name="signout_fail">로그아웃 실패</string>
+    <string name="signout_fail_null">이메일 또는 비밀버호를 입력하세요</string>
+
+    <string name="home">홈</string>
+    <string name="search">검색</string>
+    <string name="account">내 정보</string>
+
+    <string name="post">계시물</string>
+    <string name="upload_img">사진 업로드</string>
+    <string name="img_content">내용</string>
+    <string name="upload_success">업로드 성공</string>
+    <string name="upload_fail">업로드 실패</string>
+
+    <string name="back">뒤로가기</string>
+
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
 </resources>
